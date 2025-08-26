@@ -30,9 +30,11 @@ File handling (reading/writing binary files).
 
 Multithreading for workload parallelization.
 
+Practical performance measurement in C++ applications.
 
 ## OUTPUT
-
-Practical performance measurement in C++ applications.
+<img width="511" height="256" alt="Image" src="https://github.com/user-attachments/assets/d249a40e-c305-4a19-8077-373300d487a4" />
+<img width="518" height="249" alt="Image" src="https://github.com/user-attachments/assets/8c72c899-ba1b-44be-a990-c494f10c922b" />
+<img width="432" height="227" alt="Image" src="https://github.com/user-attachments/assets/0f184b74-30e6-4817-9369-aeafa8757f7c" />
 
 Data compression techniques for storage optimization.
